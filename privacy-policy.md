@@ -45,4 +45,4 @@
 
   ## Contact
   If you have questions about this privacy policy, please visit our
-  [support page](./support).
+  [support page](./support.md).
