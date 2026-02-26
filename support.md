@@ -31,4 +31,4 @@
 
   ## Contact
   For any issues not covered above, please reach out by opening an
-  issue on our [GitHub page](https://github.com/tomascern/aviatoratlas-legal/issues).
+  issue on our [GitHub page](https://github.com/tomascern/atlo-legal/issues).
