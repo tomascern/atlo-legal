@@ -1,16 +1,16 @@
-# Privacy Policy for AviatorAtlas                                                                                                         
+# Privacy Policy for Atlo                                                                                                                                                      
 
-  *Last updated: February 20, 2026*
+  *Last updated: February 26, 2026*
 
   ## Overview
-  AviatorAtlas is an offline aviation map application for pilots.
+  Atlo is an offline world atlas application.
   We are committed to protecting your privacy.
 
   ## Data We Collect
 
   ### Location Data
-  AviatorAtlas requests access to your device location solely to
-  display your current position (ownship) on the map. Location data
+  Atlo requests access to your device location solely to
+  display your current position on the map. Location data
   is processed entirely on-device and is never transmitted to our
   servers or any third party.
 
@@ -37,7 +37,7 @@
   - **MapLibre** — open-source map rendering (runs fully on-device)
 
   ## Children's Privacy
-  AviatorAtlas does not knowingly collect data from children under 13.
+  Atlo does not knowingly collect data from children under 13.
 
   ## Changes to This Policy
   We may update this policy occasionally. The latest version will
